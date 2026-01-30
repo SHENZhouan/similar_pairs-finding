@@ -1,5 +1,7 @@
 # similar_pairs-finding
 
+Code running instruction should be found in the project_codes.md
+
 # **1.Overview:**
 
 This repository realized the fingerprint method of Minhash, Simhash and Bit Sampling and used Banding method to efficiently decrease the range of possible similar pairs.
